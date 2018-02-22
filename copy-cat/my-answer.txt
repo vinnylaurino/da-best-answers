@@ -1,0 +1,7 @@
+*To overwrite contents of the destination file*
+
+`cat hello_world.txt > hello_copy.txt`
+
+*To append the source file to the destination file*
+
+`cat hello_world.txt >> hello_copy.txt`

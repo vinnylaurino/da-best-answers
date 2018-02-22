@@ -1,0 +1,10 @@
+As a: car renter
+
+I want to: expedite paperwork
+
+So that: I can get the car fast and get out
+
+
+1. The driver has a valid drivers license
+2. The driver doesn't have a valid drivers license
+3. The driver doesn’t have car insurance
